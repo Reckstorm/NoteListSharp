@@ -1,0 +1,20 @@
+[
+  {
+    "Title": "Edited Note",
+    "Body": "Some text for some note",
+    "Priority": "Medium",
+    "Date": "2022-11-15T22:17:04.0231866+02:00"
+  },
+  {
+    "Title": "Some Medium note",
+    "Body": "Some text for medium note",
+    "Priority": "Medium",
+    "Date": "2022-11-15T22:17:38.8384642+02:00"
+  },
+  {
+    "Title": "Some different note",
+    "Body": "Some text for a different note",
+    "Priority": "Medium",
+    "Date": "2022-11-15T22:23:03.8280222+02:00"
+  }
+]
